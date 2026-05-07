@@ -1,4 +1,4 @@
-# FormularioCopa# ⚽ FormularioCopa
+# ⚽ FormularioCopa
 
 > Formulário de inscrição para assistir à Copa do Mundo, desenvolvido com **React Native + Expo**, utilizando **React Hook Form** e **Zod** para controle e validação de campos.
 
